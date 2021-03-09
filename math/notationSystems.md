@@ -14,7 +14,6 @@ This is covered primarily in asymptotic analysis.
 * Less than or equal to: $x \leq y$
 * Greater than or equal to: $x \geq y$
 
-
 ## Set theory notation
 
 * Exists: There exists at least one $\exists$
@@ -36,7 +35,6 @@ Natural Sets
 * Universal: Set of all possible values.  $\universal$
 * Natural Numbers: $\N$
 * Integers: $\Z$
-
 
 ## Set Builder Notation
 
