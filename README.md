@@ -11,7 +11,15 @@ I am trying to keep the layout pretty simple for the moment.
     * leetcode.com account
     * virtualEnv
     * jupyter and jupyter-extensions
-* Code: Includes coding examples that are a bit more in depth than what is on the weekly syllabus.  Used primarily for reference and examples.  This will be broken up into specific sections.
+* Code: Includes coding examples that are a bit more in depth than what is on the weekly syllabus.  Used primarily for reference and examples.  This will be broken up into specific sections.  This is where most of the fun stuff will be.
+    * Python Base: Covers the base language.  The first few classes with be specific on this.  Then we can start roaming around to usage of the language in more fun ways.
+    * Data Structures and Algorithms:  Data structures are the means by which we store data.  Algorithms are the way we operate on that data.
+    * Games: Ever wanted to make a game.  This is how to do it.  Your kids will be in awe!
+    * Gui: Graphical User Interface.  This is a way to click around your program.
+    * Machine Learning: Let the machine do the work for you.  Give it a picture and let it tell you if that is a cookie or a dog (harder than you might think).  This is currently all the rage.
+    * Statistical Modeling: Did your father-in-law just say something that made you go "what?!?".  This is where you prove him wrong.
+    * Plotting and Graphing: Take that proof and plot it out.  Show your father-in-law or wife not just that they are wrong, but how wrong they are!
+    * REST-full Api's: Use other people's work.  Want to predicts stocks, beat the weather, pick the best fishing spot?  Here it is!
 * Data: Will contain data for analysis.  Im going to add some fun stuff here.  Maybe some baseball data for us to chunk through.  Anything you guys would like to see here?  Maybe housing data for our local area?
 * Infrastructure: Will cover means for hosting and executing code.
 * Math: Covers that math we will need.  Will also cover notations for different segments of math.  I absolutely promise you that this will not make it difficult for anyone.
