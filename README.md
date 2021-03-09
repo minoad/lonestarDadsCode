@@ -4,11 +4,17 @@
 
 I am trying to keep the layout pretty simple for the moment.  
 
+* Setup: A single file on each thing to setup with all the details and troubleshooting we come up with.  In preparation, I would like everyone to setup the following.  Details along with troubleshooting will be in the documents under setup/:
+    * Git account and Git on your local machine.
+    * Python 3.9x
+    * VSCode
+    * leetcode.com account
+    * virtualEnv
+    * jupyter and jupyter-extensions
 * Code: Includes coding examples that are a bit more in depth than what is on the weekly syllabus.  Used primarily for reference and examples.  This will be broken up into specific sections.
 * Data: Will contain data for analysis.  Im going to add some fun stuff here.  Maybe some baseball data for us to chunk through.  Anything you guys would like to see here?  Maybe housing data for our local area?
 * Math: Covers that math we will need.  Will also cover notations for different segments of math.  I absolutely promise you that this will not make it difficult for anyone.
 * Schedule: As expected this will cover the when and the where.
-* Setup: A single file on each thing to setup with all the details and troubleshooting we come up with.
 * Syllabus: This is a single file per session and will include all of the data covered for that session.  This will change a good deal especially over these initial sessions.
 * .gitignore: You will become intimately familiar with this file.  It will include a listing for all items that you do not want included in `git add/commit/push`.
 * License: This is generally included in all git repos and covers the legality of how the data contained can be used.  In this case it is the MIT license. The MIT License gives users express permission to reuse code for any purpose, sometimes even if code is part of proprietary software. As long as users include the original copy of the MIT license in their distribution, they can make any changes or modifications to the code to suit their own needs.  Basically this is Open Source (OSS) and anyone can use anything they want as long as the result remains open source.  It is a way to combat people taking others work and then monetizing it.
