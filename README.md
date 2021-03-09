@@ -13,6 +13,7 @@ I am trying to keep the layout pretty simple for the moment.
     * jupyter and jupyter-extensions
 * Code: Includes coding examples that are a bit more in depth than what is on the weekly syllabus.  Used primarily for reference and examples.  This will be broken up into specific sections.
 * Data: Will contain data for analysis.  Im going to add some fun stuff here.  Maybe some baseball data for us to chunk through.  Anything you guys would like to see here?  Maybe housing data for our local area?
+* Infrastructure: Will cover means for hosting and executing code.
 * Math: Covers that math we will need.  Will also cover notations for different segments of math.  I absolutely promise you that this will not make it difficult for anyone.
 * Schedule: As expected this will cover the when and the where.
 * Syllabus: This is a single file per session and will include all of the data covered for that session.  This will change a good deal especially over these initial sessions.
