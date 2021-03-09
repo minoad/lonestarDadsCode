@@ -14,7 +14,7 @@ I am trying to keep the layout pretty simple for the moment.
 * License: This is generally included in all git repos and covers the legality of how the data contained can be used.  In this case it is the MIT license. The MIT License gives users express permission to reuse code for any purpose, sometimes even if code is part of proprietary software. As long as users include the original copy of the MIT license in their distribution, they can make any changes or modifications to the code to suit their own needs.  Basically this is Open Source (OSS) and anyone can use anything they want as long as the result remains open source.  It is a way to combat people taking others work and then monetizing it.
 * markdown.md: Markdown is small language supported by most tech tools.  It allows you to format text inline as you type it.  This file is formatted in such a way.  It is supported by git and most pull requests include Markdown in their description.  It is a tiny language and only really requires a few minutes to get it straight.  Markdown is incredible for coding discussions as it allows you to embed code directly in your document.  Mathematical notation is also supported in markdown.  Some examples below
 
-LaTeX
+LaTeX (Currently github does not render LaTeX)
 
 $\sum_{n=1}^{\infty} 2^{-n} = 1$
 
@@ -36,5 +36,5 @@ Python
 [i for i in [1,2,3,4,5]]
 ```
 
-Image of markdown and resulting document
+Image of markdown and resulting document.  The markdown is on the left and resulting parsed document is on the right.
 ![Markdown](data/images/markdown.png)
