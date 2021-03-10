@@ -4,6 +4,7 @@
 
 * minoad7: ME!  I need to start tweeting more.
 * svpino: Python and data science.
+* DThompsonDev: Inspirational.
 
 ## Medium
 

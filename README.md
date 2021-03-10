@@ -12,6 +12,7 @@ I am trying to keep the layout pretty simple for the moment.
     * virtualEnv
     * jupyter and jupyter-extensions
 * Code: Includes coding examples that are a bit more in depth than what is on the weekly syllabus.  Used primarily for reference and examples.  This will be broken up into specific sections.  This is where most of the fun stuff will be.
+    * Shell: Some things are just easier with the shell.  Will spend as little time as possible here but the `cat -> grep -> tr -> cut -> sort -> uniq` loop will save you hours.  For instance, for the baseball data some headers came in a weird format.  This converted them to a csv heading in well under a second.  Would have take a half hour to do by hand.  `cat _ | egrep -v 'sort|text_format|grid_|^$' | tr '\n' ','`
     * Python Base: Covers the base language.  The first few classes with be specific on this.  Then we can start roaming around to usage of the language in more fun ways.
     * Data Structures and Algorithms:  Data structures are the means by which we store data.  Algorithms are the way we operate on that data.
     * Games: Ever wanted to make a game.  This is how to do it.  Your kids will be in awe!
@@ -21,7 +22,12 @@ I am trying to keep the layout pretty simple for the moment.
     * Plotting and Graphing: Take that proof and plot it out.  Show your father-in-law or wife not just that they are wrong, but how wrong they are!
     * REST-full Api's: Use other people's work.  Want to predicts stocks, beat the weather, pick the best fishing spot?  Here it is!
     * Web Scraping: This covers methods of using a program to analyze a site and collect the data that exists there.  Pairs well with all forms of analysis and making a profit.  There are many ways to make money from simply making data from sites available in an API.
+    * Databases: It may be dull, we but we have to have a data layer.
+    * Regular Expressions: A very advanced way to parse text.  Very difficult to read as a human.  Often referred to as a write-only language as you pretty much create a new expression every time you use it.
 * Data: Will contain data for analysis.  Im going to add some fun stuff here.  Maybe some baseball data for us to chunk through.  Anything you guys would like to see here?  Maybe housing data for our local area?
+    * dataPrep: This is where I slice the data up for consumption.  Github is not really fond of very large files.  This is filtered out in the .gitignore file.
+    * baseball/teams.csv: Team data since 2000.
+    * baseball/cubsHittersSince2000.csv: I'm biassed.  Sue me.
 * Infrastructure: Will cover means for hosting and executing code.
 * Math: Covers that math we will need.  Will also cover notations for different segments of math.  I absolutely promise you that this will not make it difficult for anyone.
 * Schedule: As expected this will cover the when and the where.

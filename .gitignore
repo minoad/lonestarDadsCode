@@ -130,3 +130,6 @@ dmypy.json
 
 # VSCode
 .vscode/
+
+# Where I clean data prior to moving it to the data directory
+data/dataprep/
