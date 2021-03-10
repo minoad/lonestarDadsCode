@@ -12,20 +12,20 @@ I am trying to keep the layout pretty simple for the moment.
     * virtualEnv
     * jupyter and jupyter-extensions
     * Docker.  This is a great to have.
-* Code: Includes coding examples that are a bit more in depth than what is on the weekly syllabus.  Used primarily for reference and examples.  This will be broken up into specific sections.  This is where most of the fun stuff will be.
-    * Shell: Some things are just easier with the shell.  Will spend as little time as possible here but the `cat -> grep -> tr -> cut -> sort -> uniq` loop will save you hours.  For instance, for the baseball data some headers came in a weird format.  This converted them to a csv heading in well under a second.  Would have take a half hour to do by hand.  `cat _ | egrep -v 'sort|text_format|grid_|^$' | tr '\n' ','`
-    * Python Base: Covers the base language.  The first few classes with be specific on this.  Then we can start roaming around to usage of the language in more fun ways.
-    * Data Structures and Algorithms:  Data structures are the means by which we store data.  Algorithms are the way we operate on that data.
+* Code: Includes coding examples that are more in-depth than what is on the weekly syllabus. They are used primarily for reference and examples.  This section is where most of the fun stuff will be.
+    * Shell: Some things are just easier with the shell.  We will spend as little time as possible here but the `cat -> grep -> tr -> cut -> sort -> uniq` loop will save you hours.  For instance, for the baseball data, some headers came in a weird format.  The command below converted them to a CSV heading in well under a second.  Would have take a half hour to do by hand.  `cat _ | egrep -v 'sort|text_format|grid_|^$' | tr '\n' ','`
+    * Python Base: Covers the base language.  The first few classes are going to concentrate on this.  Once we have some comfort around the language, we can start roaming around other sections.
+    * Data Structures and Algorithms:  Data structures are how we store data.  Algorithms are the way we operate on that data.
     * Games: Ever wanted to make a game.  This is how to do it.  Your kids will be in awe!
     * Gui: Graphical User Interface.  This is a way to click around your program.
     * Machine Learning: Let the machine do the work for you.  Give it a picture and let it tell you if that is a cookie or a dog (harder than you might think).  This is currently all the rage.
-    * Statistical Modeling: Did your father-in-law just say something that made you go "what?!?".  This is where you prove him wrong.
+    * Statistical Modeling: Did your father-in-law say something that made you go, "what?!?".  This is where you prove him wrong.
     * Plotting and Graphing: Take that proof and plot it out.  Show your father-in-law or wife not just that they are wrong, but how wrong they are!
     * REST-full Api's: Use other people's work.  Want to predicts stocks, beat the weather, pick the best fishing spot?  Here it is!
-    * Web Scraping: This covers methods of using a program to analyze a site and collect the data that exists there.  Pairs well with all forms of analysis and making a profit.  There are many ways to make money from simply making data from sites available in an API.
-    * Databases: It may be dull, we but we have to have a data layer.
-    * Regular Expressions: A very advanced way to parse text.  Very difficult to read as a human.  Often referred to as a write-only language as you pretty much create a new expression every time you use it.
-    * IOT: Another big one right now.  Create your own devices using python, a controller and suite of sensors.  React to temp, voltage, movement, anything you would like.
+    * Web Scraping: This covers methods of using a program to analyze a site and collect the data that exists there.  Pairs well with all forms of analysis and making a profit.  There are many ways to make money from serving data from other sites in an API.
+    * Databases: It may be dull, but we have to have a data layer.
+    * Regular Expressions: A very advanced way to parse text.  Very difficult to read as a human.  Regexes are often referred to as a write-only language as you usually create a new expression every time you use it.
+    * IOT: Another big one right now.  Create your own devices using python, a controller, and a suite of sensors.  React to temp, voltage, movement, anything you would like.
 * Data: Will contain data for analysis.  Im going to add some fun stuff here.  Maybe some baseball data for us to chunk through.  Anything you guys would like to see here?  Maybe housing data for our local area?
     * dataPrep: This is where I slice the data up for consumption.  Github is not really fond of very large files.  This is filtered out in the .gitignore file.
     * baseball/teams.csv: Team data since 2000.
