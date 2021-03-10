@@ -14,6 +14,7 @@ I am trying to keep the layout pretty simple for the moment.
     * Docker.  This is a great to have.
 * Code: Includes coding examples that are more in-depth than what is on the weekly syllabus. They are used primarily for reference and examples.  This section is where most of the fun stuff will be.
     * Shell: Some things are just easier with the shell.  We will spend as little time as possible here but the `cat -> grep -> tr -> cut -> sort -> uniq` loop will save you hours.  For instance, for the baseball data, some headers came in a weird format.  The command below converted them to a CSV heading in well under a second.  Would have take a half hour to do by hand.  `cat _ | egrep -v 'sort|text_format|grid_|^$' | tr '\n' ','`
+    * Design Patterns: General repeatable patterns to commonly found problems.
     * Python Base: Covers the base language.  The first few classes are going to concentrate on this.  Once we have some comfort around the language, we can start roaming around other sections.
     * Data Structures and Algorithms:  Data structures are how we store data.  Algorithms are the way we operate on that data.
     * Games: Ever wanted to make a game.  This is how to do it.  Your kids will be in awe!
