@@ -1,3 +1,4 @@
+playerID,yearID,stint,teamID,lgID,G,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,IBB,HBP,SH,SF,GIDP
 aguilri01,2000,1,CHN,NL,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 andresh01,2000,1,CHN,NL,66,192,25,44,5,0,14,39,1,1,27,59,1,2,0,1,9
 arnolja01,2000,2,CHN,NL,12,9,0,1,1,0,0,0,0,0,0,3,0,1,0,0,0
