@@ -22,7 +22,7 @@ I am trying to keep the layout pretty simple for the moment.
     * Machine Learning: Let the machine do the work for you.  Give it a picture and let it tell you if that is a cookie or a dog (harder than you might think).  This is currently all the rage.
     * Statistical Modeling: Did your father-in-law say something that made you go, "what?!?".  This is where you prove him wrong.
     * Plotting and Graphing: Take that proof and plot it out.  Show your father-in-law or wife not just that they are wrong, but how wrong they are!
-    * REST-full Api's: Use other people's work.  Want to predicts stocks, beat the weather, pick the best fishing spot?  Here it is!
+    * REST-full Api's: Use other people's work.  Want to predicts stocks, beat the weather, pick the best place to fish?  Here it is!
     * Web Scraping: This covers methods of using a program to analyze a site and collect the data that exists there.  Pairs well with all forms of analysis and making a profit.  There are many ways to make money from serving data from other sites in an API.
     * Databases: It may be dull, but we have to have a data layer.
     * Regular Expressions: A very advanced way to parse text.  Very difficult to read as a human.  Regexes are often referred to as a write-only language as you usually create a new expression every time you use it.
@@ -31,6 +31,7 @@ I am trying to keep the layout pretty simple for the moment.
     * dataPrep: This is where I slice the data up for consumption.  Github is not really fond of very large files.  This is filtered out in the .gitignore file.
     * baseball/teams.csv: Team data since 2000.
     * baseball/cubsHittersSince2000.csv: I'm biassed.  Sue me.
+    * austinWeatherData/austin_weather.csv: Just weather since 2000 from our area.
 * Infrastructure: Will cover means for hosting and executing code.
 * Math: Covers that math we will need.  Will also cover notations for different segments of math.  I absolutely promise you that this will not make it difficult for anyone.
 * Schedule: As expected this will cover the when and the where.
