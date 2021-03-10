@@ -11,6 +11,7 @@ I am trying to keep the layout pretty simple for the moment.
     * leetcode.com account
     * virtualEnv
     * jupyter and jupyter-extensions
+    * Docker.  This is a great to have.
 * Code: Includes coding examples that are a bit more in depth than what is on the weekly syllabus.  Used primarily for reference and examples.  This will be broken up into specific sections.  This is where most of the fun stuff will be.
     * Shell: Some things are just easier with the shell.  Will spend as little time as possible here but the `cat -> grep -> tr -> cut -> sort -> uniq` loop will save you hours.  For instance, for the baseball data some headers came in a weird format.  This converted them to a csv heading in well under a second.  Would have take a half hour to do by hand.  `cat _ | egrep -v 'sort|text_format|grid_|^$' | tr '\n' ','`
     * Python Base: Covers the base language.  The first few classes with be specific on this.  Then we can start roaming around to usage of the language in more fun ways.
@@ -37,6 +38,7 @@ I am trying to keep the layout pretty simple for the moment.
 * License: This is generally included in all git repos and covers the legality of how the data contained can be used.  In this case it is the MIT license. The MIT License gives users express permission to reuse code for any purpose, sometimes even if code is part of proprietary software. As long as users include the original copy of the MIT license in their distribution, they can make any changes or modifications to the code to suit their own needs.  Basically this is Open Source (OSS) and anyone can use anything they want as long as the result remains open source.  It is a way to combat people taking others work and then monetizing it.
 * markdown.md: Markdown is small language supported by most tech tools.  It allows you to format text inline as you type it.  This file is formatted in such a way.  It is supported by git and most pull requests include Markdown in their description.  It is a tiny language and only really requires a few minutes to get it straight.  Markdown is incredible for coding discussions as it allows you to embed code directly in your document.  Mathematical notation is also supported in markdown.  Some examples below
 * media.md: What and who I follow that gives me value.
+* personalMarketing.md: I want to make a career of this, Now what?  (recommended by @DThompsonDev)
 
 LaTeX (Currently github does not render LaTeX)
 
