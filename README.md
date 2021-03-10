@@ -24,6 +24,7 @@ I am trying to keep the layout pretty simple for the moment.
     * Web Scraping: This covers methods of using a program to analyze a site and collect the data that exists there.  Pairs well with all forms of analysis and making a profit.  There are many ways to make money from simply making data from sites available in an API.
     * Databases: It may be dull, we but we have to have a data layer.
     * Regular Expressions: A very advanced way to parse text.  Very difficult to read as a human.  Often referred to as a write-only language as you pretty much create a new expression every time you use it.
+    * IOT: Another big one right now.  Create your own devices using python, a controller and suite of sensors.  React to temp, voltage, movement, anything you would like.
 * Data: Will contain data for analysis.  Im going to add some fun stuff here.  Maybe some baseball data for us to chunk through.  Anything you guys would like to see here?  Maybe housing data for our local area?
     * dataPrep: This is where I slice the data up for consumption.  Github is not really fond of very large files.  This is filtered out in the .gitignore file.
     * baseball/teams.csv: Team data since 2000.
