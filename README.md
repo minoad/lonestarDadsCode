@@ -20,6 +20,7 @@ I am trying to keep the layout pretty simple for the moment.
     * Statistical Modeling: Did your father-in-law just say something that made you go "what?!?".  This is where you prove him wrong.
     * Plotting and Graphing: Take that proof and plot it out.  Show your father-in-law or wife not just that they are wrong, but how wrong they are!
     * REST-full Api's: Use other people's work.  Want to predicts stocks, beat the weather, pick the best fishing spot?  Here it is!
+    * Web Scraping: This covers methods of using a program to analyze a site and collect the data that exists there.  Pairs well with all forms of analysis and making a profit.  There are many ways to make money from simply making data from sites available in an API.
 * Data: Will contain data for analysis.  Im going to add some fun stuff here.  Maybe some baseball data for us to chunk through.  Anything you guys would like to see here?  Maybe housing data for our local area?
 * Infrastructure: Will cover means for hosting and executing code.
 * Math: Covers that math we will need.  Will also cover notations for different segments of math.  I absolutely promise you that this will not make it difficult for anyone.
