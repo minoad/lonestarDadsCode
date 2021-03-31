@@ -16,6 +16,8 @@ If you can swing the 30 dollars a month, this is an absolute must.  You will sav
 
 ## Git Repos
 
+[First Contribution](https://github.com/firstcontributions/first-contributions)
+
 ## Hacker News
 
 ## Slack
