@@ -30,6 +30,8 @@ I am trying to keep the layout pretty simple for the moment.
     * Web Development: Flask and Django are python modules that allow you to create and manage complex websites.
     * API: Allow other to integrate with your app via simple http calls.
     * Shell Awk/Sed: Mini programming languages for parsing text and fields.
+    * Code Review: Someone else has to look at it before it goes into production.
+    * Refactoring: When you are done, you are never done.  Your program works, great!  Now lets make it faster, stronger, better.
 * Data: Will contain data for analysis.  Im going to add some fun stuff here.  Maybe some baseball data for us to chunk through.  Anything you guys would like to see here?  Maybe housing data for our local area?
     * dataPrep: This is where I slice the data up for consumption.  Github is not really fond of very large files.  This is filtered out in the .gitignore file.
     * baseball/teams.csv: Team data since 2000.
